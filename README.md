@@ -7,5 +7,9 @@ The purpose of this project was to gather movie data from both wikipedia and kag
 ## Results
 
 After completing the extract, transform, and load process, I had a database with two tables: one for movies and one for ratings. The movies table consists of 31 columns holding a range of information for 6048 different movies.
-![Movies_Query] 
+![Movies_Query] (https://github.com/mahmoodsayedi/ETL/blob/main/resources/movies_query.png)
+The ratings table consists of 5 different columns holding a range of information on over 26 million individual user ratings.
+
+![Rating_Query] (https://github.com/mahmoodsayedi/ETL/blob/main/resources/ratings_query.png)
+Together, students will have a chance to preform various different analysis from these tables to derive all sorts of interesting insights.
 
